@@ -3,9 +3,9 @@
 
 const role_permissions = [
  {
-  'role id' : '905TYV',
-  'permission id' : '012O9L',
-  'created at' : '7 march 2026',
+  'roleId' : '905TYV',
+  'permissionId' : '012O9L',
+  'createdAt' : '07-03-2026',
  }
 ]
 

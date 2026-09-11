@@ -7,31 +7,31 @@ const firstName = ['peter', 'Josh', 'stan', 'matt'];
 
 const Transactions = [
  {
-  'transaction id' : 'WRT456',
-  'user id' : 'TYU9U7',
+  'transactionId' : 'WRT456',
+  'userId' : 'TYU9U7',
   'ammount' : 12000,
-  'product id' : '239UY6',
-  'order id' : '98HHR',
-  'order items' : [
+  'productId' : '239UY6',
+  'orderId' : '98HHR',
+  'order_items' : [
    {
-    'product name' : 'Gucci bags',
-    'product description' : 'luxury bags',
-    'product price' : 4000,
+    'product_name' : 'Gucci bags',
+    'product_description' : 'luxury bags',
+    'product_price' : 4000,
     'quantity' : 3
    }
   ]
  },
  {
-  'transaction id' : '55RTI',
-  'user id' : '123ABC',
+  'transactionId' : '55RTI',
+  'userId' : '123ABC',
   'ammount' : 15000,
-  'product id' : 'RKL903',
-  'order id' : 'FTY090',
-  'order items' : [
+  'productId' : 'RKL903',
+  'orderId' : 'FTY090',
+  'order_items' : [
    {
-    'product name' : 'Gucci bags',
-    'product description' : 'luxury bags',
-    'product price' : 3000,
+    'product_name' : 'Gucci bags',
+    'product_description' : 'luxury bags',
+    'product_price' : 3000,
     'quantity' : 5
    }
   ]

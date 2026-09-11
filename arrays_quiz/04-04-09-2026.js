@@ -4,11 +4,11 @@
 
 const permissions = [
  {
-  'permission id' : '999JIO',
-  'resource name' : 'keys',
-  'action name' : 'padlock',
+  'permissionId' : '999JIO',
+  'resourceName' : 'keys',
+  'actionName' : 'padlock',
   'description' : 'under review',
-  'is_active' : 'true',
+  'is_active' : true,
  }
 ]
 

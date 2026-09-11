@@ -6,16 +6,16 @@
 
 const tenants = [
  {
-  'tenant id' : 'EIP123',
-  'tenant name' : 'IUYH4R', 
-  'created at' : '11 June 2026',
+  'tenantId' : 'EIP123',
+  'tenantName' : 'IUYH4R', 
+  'createdAt' : '11 June 2026',
   'status' : 'active',
-  'owner id' : '190ITG',
+  'ownerId' : '190ITG',
   'slug' : 'later',
   'settings' : [
    {
     'timezone' : '15:30CAT',
-    'currency' : 'dollars$',
+    'currency' : 'USD',
     'locality' : 'africa',
    }
   ]

@@ -3,17 +3,14 @@
 
 const properties = [
  {
-  'user id' : 'JBH345',
+  'userId' : 'JBH345',
   'name' : 'bassey',
   'description' : 'head security',
   'address' : '100 Brooke street, Uyo',
-  'check-in time' : '9:00am',
-  'check-out time' : '5:00pm',
+  'check-in_time' : '9:00am',
+  'check-out_time' : '5:00pm',
  }
 ]
-
-let someone = 'matt';
-console.log(someone);
 
 console.log(properties);
 

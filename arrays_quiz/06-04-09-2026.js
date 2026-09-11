@@ -5,11 +5,11 @@
 
 const user_roles = [
  {
-  'user id' : '444JIO',
-  'assigned by' : 'manager',
-  'assigned to' : 'assistant secretary',
+  'userId' : '444JIO',
+  'assigned_by' : 'manager',
+  'assigned_to' : 'assistant secretary',
   'reason' : 'work survey',
-  'is_active' : 'true',
+  'is_active' : true,
  }
 ]
 

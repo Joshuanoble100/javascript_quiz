@@ -4,10 +4,10 @@
 
 const profiles = [
  {
-  'profile id' : 'GYU776',
-  'user id' : ' YUO9P0',
-  'display name' : 'stark industry',
-  'profile image' : null,
+  'profileId' : 'GYU776',
+  'userId' : ' YUO9P0',
+  'displayName' : 'stark industry',
+  'profileImage' : null,
   'address' : '45, Nwaniba road',
   'prefrences' : 'all',
  }

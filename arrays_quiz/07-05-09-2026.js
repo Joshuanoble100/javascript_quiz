@@ -3,9 +3,9 @@
 
 const user_permission = [
  {
-  'user id' : 'DKL654',
-  'permission id' : 'QAZL02',
-  'assigned by' : 'BDM',
+  'userId' : 'DKL654',
+  'permissionId' : 'QAZL02',
+  'assigned_by' : 'BDM',
   'reason' : 'for something',
   'is_active' : true
  }
